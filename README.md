@@ -1,12 +1,12 @@
 # Deep Learning   -  Neural-networks
 
-
 # Convolutional Neural Networks** 
 
 
-Steps to Achieve CNN Algorithm
+**Steps to Achieve CNN Algorithm**
 
-    Convolution Layer
+    
+# 1. Convolution Layer
 
 
     Activation Layer
